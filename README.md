@@ -1,5 +1,7 @@
-# HTML Input 2 CW
 
+Score : 3
+# HTML Input 2 CW
+#### Partial : button is not associate to form, required fields are not required, terms should be checkbox not radio button 
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
